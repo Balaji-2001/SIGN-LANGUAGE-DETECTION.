@@ -1,4 +1,4 @@
-# SIGN-LANGUAGE-DEECTION.
+# SIGN-LANGUAGE-DETECTION.
 
 A real-time gesture recognition system for American Sign Language (ASL) alphabet detection using deep learning and computer vision.
 
